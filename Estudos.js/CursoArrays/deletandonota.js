@@ -6,7 +6,7 @@ notas.pop()
 
 //mostra a array notas
 console.log(notas)
-
+8
 
 // calcula a media das notas
 const media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length
