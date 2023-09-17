@@ -1,6 +1,6 @@
+//objeto
 const objetoPessoa = {
+    //características
     nome: "José",
     idade: 32,
 }
-
-console.log(objetoPessoa.nome)
