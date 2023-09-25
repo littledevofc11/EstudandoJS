@@ -14,7 +14,7 @@ function insertionSort(lista){
             
             lista[analise -1] = itemAnalise
 
-            //le de novo pae
+            //le de novo paee
             analise--
         }
     }
